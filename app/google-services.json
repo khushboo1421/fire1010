@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443529829782",
+    "firebase_url": "https://fire-a57b1.firebaseio.com",
+    "project_id": "fire-a57b1",
+    "storage_bucket": "fire-a57b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443529829782:android:f2236470dab38536",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443529829782-m8vjkalo6ujv1qonvqckggvh0kqrrueq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_xuQ0vVG_V1MkSNyvyLtpiuBG8DznnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443529829782-m8vjkalo6ujv1qonvqckggvh0kqrrueq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
